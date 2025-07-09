@@ -213,13 +213,3 @@ The application generates insights such as:
 1. Add new model classes in the `models/` directory
 2. Import and integrate in `main.py`
 3. Create corresponding dashboard sections
-
-## 📞 Contact Information
-
-**Project Author**: Portfolio submission for UPMC Associate Data Scientist role  
-**Focus**: Healthcare Marketing Analytics and Data Science  
-**Skills Demonstrated**: Media Mix Modeling, Attribution Analysis, Forecasting, SQL, Python, Visualization
-
----
-
-*This project demonstrates production-ready code with healthcare marketing focus, showcasing all technical requirements for the UPMC Associate Data Scientist position.* 
